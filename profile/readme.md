@@ -1,5 +1,7 @@
-# Fenix-Line
-## Somos a Inovação 💡
+<h1 align=center> Fenix-Line</h1>
+
+<h2 align=center> Somos a Inovação 💡 </h2>
+
 ### [![Documentação do Projeto](https://drive.google.com/file/d/1jQSNwgn_RywSfErUQI98dllFn94yZamb/preview?width=640&height=480?allow=autoplay)](https://docs.google.com/document/d/1RwpncYXB1tU8THLkagYiqO1Zj70dbSMnq2LRSuVK-MY/edit) 
 <div> 
  
